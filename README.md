@@ -2,9 +2,9 @@
 
 ## Group Members
 
-### Andrei Gloria
-### Syed Anwar
-### Theresa Olloh
+#### Andrei Gloria
+#### Syed Anwar
+#### Theresa Olloh
 
 ## Project Description
 
@@ -21,3 +21,5 @@ Narrator App is an application where a user inputs text and transcribed to speec
 N/A
 
 ## Wireframe
+
+N/A
