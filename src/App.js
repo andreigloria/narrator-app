@@ -3,6 +3,7 @@ import axios from 'axios';
 import { useSpeechSynthesis } from 'react-speech-kit';
 import './App.css';
 
+
 function App() {
   const [advice, setAdvice] = useState('');
   const { speak, speaking } = useSpeechSynthesis();
@@ -45,5 +46,7 @@ function App() {
 }
 
 export default App;
+
+
 
 
